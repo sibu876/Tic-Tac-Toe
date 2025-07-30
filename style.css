@@ -3,11 +3,14 @@
     padding: 0;   
 }
 body{
-    background-color: rgb(160, 148, 137);
-     margin: 12rem;
-     justify-content: center;
-     align-items: center;
-     text-align: center;
+  background-color: rgb(160, 148, 137);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 2rem;
     
 }
 .container{
